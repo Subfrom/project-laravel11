@@ -7,14 +7,14 @@
 - [x] Permission
 - [x] Role
 - [x] API (Login, Register, Logout)
+- [x] Profile
 
 # Inprogress
-- [ ] Profile
+- [ ] Notification
 
 
 # Upcoming
 - [ ] Dashboard
-- [ ] Setting
-- [ ] Notification
+~~ - [ ] Setting ~~
 - [ ] Chat
 - [ ] Payment
