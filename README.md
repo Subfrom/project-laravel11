@@ -6,15 +6,18 @@
 - [x] Logout
 - [x] Permission
 - [x] Role
-- [x] API (Login, Register, Logout)
+- [x] API (Login, Register)
 - [x] Profile
 
 # Inprogress
 - [ ] Notification
-
-
+      
 # Upcoming
 - [ ] Dashboard
-~~ - [ ] Setting ~~
 - [ ] Chat
 - [ ] Payment
+
+# API
+- [x] Login
+- [x] Register
+- [ ] Logout
