@@ -11,6 +11,7 @@
 
 # Inprogress
 - [ ] Notification
+- [ ] Blog
       
 # Upcoming
 - [ ] Dashboard
